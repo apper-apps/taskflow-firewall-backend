@@ -1,5 +1,5 @@
-import Home from '../pages/Home';
-import NotFound from '../pages/NotFound';
+import HomePage from '@/components/pages/HomePage';
+import NotFoundPage from '@/components/pages/NotFoundPage'; // Although not in routeArray, keeping for consistency in import style
 
 export const routes = {
   home: {
@@ -7,7 +7,7 @@ export const routes = {
     label: 'Tasks',
     path: '/home',
     icon: 'CheckSquare',
-    component: Home
+component: HomePage
   }
 };
 
