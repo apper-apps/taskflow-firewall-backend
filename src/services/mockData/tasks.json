@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Review quarterly marketing strategy and prepare presentation for board meeting",
+    "completed": false,
+    "priority": "high",
+    "category": "Work",
+    "dueDate": "2024-01-15T00:00:00.000Z",
+    "createdAt": "2024-01-10T09:30:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "2", 
+    "title": "Schedule annual dental checkup and cleaning appointment",
+    "completed": false,
+    "priority": "medium",
+    "category": "Personal",
+    "dueDate": "2024-01-16T00:00:00.000Z",
+    "createdAt": "2024-01-10T14:20:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "3",
+    "title": "Buy groceries for weekend dinner party - organic vegetables, wine, dessert",
+    "completed": false,
+    "priority": "medium",
+    "category": "Shopping",
+    "dueDate": "2024-01-14T00:00:00.000Z",
+    "createdAt": "2024-01-11T11:45:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "4",
+    "title": "Complete React training course modules 8-10 and submit final project",
+    "completed": true,
+    "priority": "high",
+    "category": "Work",
+    "dueDate": "2024-01-12T00:00:00.000Z",
+    "createdAt": "2024-01-08T16:00:00.000Z",
+    "completedAt": "2024-01-12T18:30:00.000Z"
+  },
+  {
+    "id": "5",
+    "title": "Research and book summer vacation destinations for family trip",
+    "completed": false,
+    "priority": "low",
+    "category": "Personal",
+    "dueDate": "2024-01-25T00:00:00.000Z",
+    "createdAt": "2024-01-09T20:15:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "6",
+    "title": "Update portfolio website with latest design projects and client testimonials",
+    "completed": false,
+    "priority": "medium",
+    "category": "Work",
+    "dueDate": null,
+    "createdAt": "2024-01-11T13:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "7",
+    "title": "Call mom to discuss weekend family gathering plans",
+    "completed": true,
+    "priority": "medium",
+    "category": "Personal",
+    "dueDate": "2024-01-13T00:00:00.000Z",
+    "createdAt": "2024-01-12T10:30:00.000Z",
+    "completedAt": "2024-01-13T15:45:00.000Z"
+  },
+  {
+    "id": "8",
+    "title": "Order new running shoes and workout gear online",
+    "completed": false,
+    "priority": "low",
+    "category": "Shopping",
+    "dueDate": "2024-01-20T00:00:00.000Z",
+    "createdAt": "2024-01-11T19:20:00.000Z",
+    "completedAt": null
+  }
+]
